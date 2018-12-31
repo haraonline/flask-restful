@@ -1,1 +1,1 @@
-# skeleton API build with flask-RESTful
+# skeleton API built with flask-RESTful
