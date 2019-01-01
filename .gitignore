@@ -1,1 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/
+__pycache__/
+models/__pycache__/
+resources/__pycache__/
